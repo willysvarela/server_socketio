@@ -1,0 +1,12 @@
+{
+  "name": "savecontract_svc",
+  "version": "1.0.0",
+  "description": "Service to Load heavy task about Save contracts data on database",
+  "main": "index.js",
+  "author": "Willys Varela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
